@@ -1,2 +1,0 @@
-This is a text file for the Week 0 assignment.
-This is the small change.
